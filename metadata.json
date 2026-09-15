@@ -1,0 +1,6 @@
+{
+  "name": "SDG 14 Marine Plastic Awareness Game",
+  "description": "A responsive 2D browser game educating players on SDG 14: Life Below Water by guiding a sea turtle through ocean plastic hazards, collecting natural food, and deploying ocean cleanup pulses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
